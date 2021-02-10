@@ -1,6 +1,6 @@
 # self-driving-car
 
-[Demo](https://bangla-name-generator.netlify.app/)
+[Demo](https:/)
 
 ## Sample
 
