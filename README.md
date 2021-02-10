@@ -5,7 +5,7 @@
 ## Sample
 
 ```
-https://bangla-name-generator.vercel.app/api/gen?gender=male
+
 ```
 
 Resources
